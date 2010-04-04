@@ -48,16 +48,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="main.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="keyboardhook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="keyboardhook.Designer.cs">
+      <DependentUpon>keyboardhook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mousehook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mousehook.Designer.cs">
+      <DependentUpon>mousehook.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="keyboardhook.resx">
+      <DependentUpon>keyboardhook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mousehook.resx">
+      <DependentUpon>mousehook.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -79,7 +99,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WindowsAPI\ManagedWinAPI.csproj">
+    <ProjectReference Include="..\ManagedWinAPI\ManagedWinAPI.csproj">
       <Project>{06B14073-8258-416E-82A5-C00E29028B28}</Project>
       <Name>ManagedWinAPI</Name>
     </ProjectReference>

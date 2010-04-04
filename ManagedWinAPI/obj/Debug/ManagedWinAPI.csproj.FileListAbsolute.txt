@@ -1,0 +1,5 @@
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\MWAPI\ManagedWinAPI\bin\Debug\MWAPI.dll
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\MWAPI\ManagedWinAPI\bin\Debug\MWAPI.pdb
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\MWAPI\ManagedWinAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\MWAPI\ManagedWinAPI\obj\Debug\MWAPI.dll
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\MWAPI\ManagedWinAPI\obj\Debug\MWAPI.pdb

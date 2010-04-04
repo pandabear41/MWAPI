@@ -36,6 +36,7 @@
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
@@ -46,24 +47,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="InputSending\HardwareHook.cs" />
-    <Compile Include="InputSending\HARDWAREINPUT.cs" />
-    <Compile Include="InputSending\INPUT.cs" />
-    <Compile Include="InputSending\InputType.cs" />
-    <Compile Include="InputSending\KEYBDINPUT.cs" />
-    <Compile Include="InputSending\KeyboardFlag.cs" />
-    <Compile Include="InputSending\MouseFlag.cs" />
-    <Compile Include="InputSending\MOUSEINPUT.cs" />
-    <Compile Include="InputSending\MOUSEKEYBDHARDWAREINPUT.cs" />
-    <Compile Include="InputSending\MouseHook.cs" />
-    <Compile Include="InputSending\KeyboardHook.cs" />
+    <Compile Include="Input\Hook\GlobalHook.cs" />
+    <Compile Include="Input\Hook\MouseState.cs" />
+    <Compile Include="Input\Sending\HardwareSender.cs" />
+    <Compile Include="Input\HARDWAREINPUT.cs" />
+    <Compile Include="Input\INPUT.cs" />
+    <Compile Include="Input\InputType.cs" />
+    <Compile Include="Input\KEYBDINPUT.cs" />
+    <Compile Include="Input\KeyboardFlag.cs" />
+    <Compile Include="Input\MouseFlag.cs" />
+    <Compile Include="Input\MOUSEINPUT.cs" />
+    <Compile Include="Input\MOUSEKEYBDHARDWAREINPUT.cs" />
+    <Compile Include="Input\Sending\MouseSender.cs" />
+    <Compile Include="Input\Sending\KeyboardSender.cs" />
+    <Compile Include="Input\Hook\KeyboardHook.cs" />
+    <Compile Include="Input\Hook\MouseHook.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="InputSending\ScanCode.cs" />
-    <Compile Include="InputSending\VirtualKeyCode.cs" />
-    <Compile Include="InputSending\XButton.cs" />
+    <Compile Include="Input\ScanCode.cs" />
+    <Compile Include="Input\VirtualKeyCode.cs" />
+    <Compile Include="Input\XButton.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="InputSending\Input.cd" />
+    <None Include="Input\Hook\Hook.cd" />
+    <None Include="Input\Input.cd" />
+    <None Include="Input\Sending\Sending.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

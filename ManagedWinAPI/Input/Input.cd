@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Struct Name="MWAPI.Input.HARDWAREINPUT">
+    <Position X="1" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input\HARDWAREINPUT.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MWAPI.Input.INPUT">
+    <Position X="1" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAQAAAAAAAAA=</HashCode>
+      <FileName>Input\INPUT.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MWAPI.Input.MOUSEKEYBDHARDWAREINPUT">
+    <Position X="1" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAQACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input\MOUSEKEYBDHARDWAREINPUT.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MWAPI.Input.KEYBDINPUT">
+    <Position X="1" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAAAABAAAAAAAAAAAAAAAAAgAAAAAAAAQA=</HashCode>
+      <FileName>Input\KEYBDINPUT.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MWAPI.Input.MOUSEINPUT">
+    <Position X="1" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAhAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAYQA=</HashCode>
+      <FileName>Input\MOUSEINPUT.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="MWAPI.Input.VirtualKeyCode" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>fwTDbACRIqDA/5vMkSAIwAukggZ2sTp7AtBO+f+/w/8=</HashCode>
+      <FileName>Input\VirtualKeyCode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MWAPI.Input.ScanCode" Collapsed="true">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YBEKDBSQsBEBSQAAiJAAUAiGogADoBgCAALA////YWM=</HashCode>
+      <FileName>Input\ScanCode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MWAPI.Input.InputType" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAACAAAAACAAAAAAAA=</HashCode>
+      <FileName>Input\InputType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MWAPI.Input.KeyboardFlag" Collapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAIAAAAAAAAAAAEAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input\KeyboardFlag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MWAPI.Input.MouseFlag" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAAAAQAAAAAUAAACBAAAAAAIgACAAAAAAAAAoA=</HashCode>
+      <FileName>Input\MouseFlag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MWAPI.Input.XButton" Collapsed="true">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Input\XButton.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
