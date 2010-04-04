@@ -1,0 +1,10 @@
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\WindowsHook\TestApp\bin\Debug\TestApp.exe
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\WindowsHook\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\WindowsHook\TestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\WindowsHook\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\WindowsHook\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\WindowsHook\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\WindowsHook\TestApp\obj\Debug\TestApp.exe
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\WindowsHook\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\WindowsHook\TestApp\bin\Debug\WindowsAPI.dll
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\WindowsHook\TestApp\bin\Debug\WindowsAPI.pdb

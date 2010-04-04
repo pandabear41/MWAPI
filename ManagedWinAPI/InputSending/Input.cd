@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsAPI.InputSending.MouseHook">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputSending\MouseHook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsAPI.InputSending.KeyboardHook">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQAABAAACgggAAABAgAAAAAAAAAAAAAAAAwBgQAAg=</HashCode>
+      <FileName>InputSending\KeyboardHook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="WindowsAPI.InputSending.HARDWAREINPUT">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputSending\HARDWAREINPUT.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WindowsAPI.InputSending.INPUT">
+    <Position X="6" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAQAAAAAAAAA=</HashCode>
+      <FileName>InputSending\INPUT.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WindowsAPI.InputSending.MOUSEKEYBDHARDWAREINPUT">
+    <Position X="6" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAQACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputSending\MOUSEKEYBDHARDWAREINPUT.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WindowsAPI.InputSending.KEYBDINPUT">
+    <Position X="6" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAAAABAAAAAAAAAAAAAAAAAgAAAAAAAAQA=</HashCode>
+      <FileName>InputSending\KEYBDINPUT.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WindowsAPI.InputSending.MOUSEINPUT">
+    <Position X="6" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAhAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAYQA=</HashCode>
+      <FileName>InputSending\MOUSEINPUT.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="WindowsAPI.InputSending.VirtualKeyCode" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>fwTDbACRIqDA/5vMkSAIwAukggZ2sTp7AtBO+f+/w/8=</HashCode>
+      <FileName>InputSending\VirtualKeyCode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsAPI.InputSending.ScanCode" Collapsed="true">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YBEKDBSQsBEBSQAAiJAAUAiGogADoBgCAALA////YWM=</HashCode>
+      <FileName>InputSending\ScanCode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsAPI.InputSending.InputType" Collapsed="true">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAACAAAAACAAAAAAAA=</HashCode>
+      <FileName>InputSending\InputType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsAPI.InputSending.KeyboardFlag" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAIAAAAAAAAAAAEAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputSending\KeyboardFlag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsAPI.InputSending.MouseFlag" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAAAAQAAAAAUAAACBAAAAAAIgACAAAAAAAAAoA=</HashCode>
+      <FileName>InputSending\MouseFlag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsAPI.InputSending.XButton" Collapsed="true">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>InputSending\XButton.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

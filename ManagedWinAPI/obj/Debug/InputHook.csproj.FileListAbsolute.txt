@@ -1,0 +1,5 @@
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\InputHook\InputHook\bin\Debug\InputHook.dll
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\InputHook\InputHook\bin\Debug\InputHook.pdb
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\InputHook\InputHook\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\InputHook\InputHook\obj\Debug\InputHook.dll
+C:\Users\Chris\Documents\Visual Studio 2008\Projects\InputHook\InputHook\obj\Debug\InputHook.pdb
